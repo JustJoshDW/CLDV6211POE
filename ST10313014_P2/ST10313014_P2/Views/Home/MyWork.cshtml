@@ -1,0 +1,87 @@
+﻿@model ProductDisplayModel
+@{
+    ViewData["Title"] = "My Work";
+}
+<img src="/Images/Artboard 3.png" alt="Artwork 3" class="about-image">
+<div class="my-3 mx-3">
+    <form asp-action="MyWork" class="row row-cols-lg-auto g-3 align-items-center">
+      <div class="col-12">
+            <label class="visually-hidden" for="CategoryId">Categories</label>
+            
+            <select class="form-select" id="CategoryId" name="categoryId">
+              <option selected>Category</option>
+                @foreach(var category in Model.Categories)
+                {
+                    <option selected="@(category.Id == Model.CategoryId)" value="@category.Id">@category.CategoryName</option>
+                }
+            </select>
+      </div>
+        <div class="col-12">
+            <label class="visually-hidden" for="sTerm">Search by name</label>
+            <div class="input-group">
+                <div class="input-group-text"></div>
+                <input type="text" class="form-control" value="@Model.STerm" id="sTerm" name="sTerm" placeholder="Search by Name">
+            </div>
+        </div>
+  
+
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">Search</button>
+    <a href="/Home/MyWork" type="reset" class="btn btn-dark">Reset</a>
+  </div>
+</form>
+</div>
+
+
+<div class="w-100 mt-4 d-flex flex-wrap">
+        @foreach (var Product in Model.Products )
+        {
+            <div class="card mx-3 my-4" style="width: 11rem;">
+                @if(string.IsNullOrEmpty(Product.ProductImage))
+                {
+                <img style="width: 100%; height: 180px" src="~/Images/default.jpg" class="card-img-top" alt="...">
+                }
+                else
+                {
+                <img style = "width: 100%; height: 180px" src="~/Images/ProductImages/@Product.ProductImage" class="card-img-top" alt="...">
+                }
+                <div class="card-body">
+                    <h5 class="card-title">Title: @Product.ProductName</h5>
+                    <p class="card-text">
+                             <b>Category:</b> @(Product.Category != null ? Product.Category.CategoryName : "N/A")<br />
+                             <b>Artist:</b> @Product.ArtistName<br />
+                             <b>Price: </b>R @Product.Price
+                        </p>
+                    <button type="button" onclick="add(@Product.ProductID)" class="btn btn-primary">Add to cart</button>
+                </div>
+            </div>
+        }
+</div>
+
+@section Scripts{
+    <script>
+        async function add(ProductId) {
+            var usernameEL = document.getElementById("username");
+            if (usernameEL == null) {
+                window.location.href = "/Identity/Account/Login";
+            }
+            try {
+                var response = await fetch(`/Cart/AddItem?ProductId=${ProductId}`);
+                if (response.status = 200) { 
+                var result = await response.json();
+                console.log(result);
+                    var cartCountEl = document.getElementById("cartCount");
+                    cartCountEl.innerHTML = result;
+                }
+            }
+            catch (err) {
+                console.log(err);
+            }
+        }
+        
+    </script>
+}
+
+
+
+

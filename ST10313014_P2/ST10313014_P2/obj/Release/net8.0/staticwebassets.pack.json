@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ST10313014_P2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ST10313014_P2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\Artboard 1.png",
+      "PackagePath": "staticwebassets\\Images\\Artboard 1.png"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\Artboard 2.png",
+      "PackagePath": "staticwebassets\\Images\\Artboard 2.png"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\Artboard 3.png",
+      "PackagePath": "staticwebassets\\Images\\Artboard 3.png"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\Artboard 4.png",
+      "PackagePath": "staticwebassets\\Images\\Artboard 4.png"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\ProductImages\\1e884867-4231-4d40-9501-c7b9d7e1c776_Vladimir-Tretchikoff.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\1e884867-4231-4d40-9501-c7b9d7e1c776_Vladimir-Tretchikoff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\ProductImages\\4da8e6be-6924-4120-8374-97e0bb8abf58_IMG_6100.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\4da8e6be-6924-4120-8374-97e0bb8abf58_IMG_6100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\ProductImages\\9a1dc33a-99d2-4410-9dea-965c250b63ec_Doll_lady.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\9a1dc33a-99d2-4410-9dea-965c250b63ec_Doll_lady.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\ProductImages\\b96f66e4-4053-4af7-9fb4-3ade6ac1f76f_istockphoto-176961787-612x612.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\b96f66e4-4053-4af7-9fb4-3ade6ac1f76f_istockphoto-176961787-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\ProductImages\\d2800307-0be5-4369-931d-9e35ada53e64_leopard-1-786x523.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\d2800307-0be5-4369-931d-9e35ada53e64_leopard-1-786x523.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\ProductImages\\ed288557-0ca6-4f7d-b461-5f69be5cee72_Vase1-387x580.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\ed288557-0ca6-4f7d-b461-5f69be5cee72_Vase1-387x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\Images\\default.jpg",
+      "PackagePath": "staticwebassets\\Images\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\joshu\\OneDrive\\Desktop\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ST10313014_P2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ST10313014_P2.props",
+      "PackagePath": "build\\ST10313014_P2.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ST10313014_P2.props",
+      "PackagePath": "buildMultiTargeting\\ST10313014_P2.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ST10313014_P2.props",
+      "PackagePath": "buildTransitive\\ST10313014_P2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Order>
+@{
+    ViewData["Title"] = "GetOrders";
+}
+
+<div style="width:100%" class="mt-2">
+    <a href="/Identity/Account/Manage" class="btn btn-primary my-2">Back</a>
+    <h5>My Orders</h5>
+    @if (Model != null && Model.Count() > 0)
+    {
+        <div class="accordion" id="orderAccordion">
+            @foreach (var order in Model)
+            {
+                var orderId = $"order_{order.Id}";
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading_@order.Id">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#@orderId" aria-expanded="false" aria-controls="@orderId">
+                            <span style="margin-right: 10px;">Order Id: <b>@order.Id</b></span> |
+                            <span style="margin-left: 10px; margin-right: 10px;">Order Date: <b>@order.CreatedDate.ToString("dd-MM-yyyy")</b></span> |
+                            <span style="margin-left: 10px;">Status: <b>@order.OrderStatus.StatusName</b></span>
+                        </button>
+                    </h2>
+                    <div id="@orderId" class="accordion-collapse collapse" aria-labelledby="heading_@order.Id" data-bs-parent="#orderAccordion">
+                        <div class="accordion-body">
+                            @if (order.OrderDetail != null && order.OrderDetail.Count > 0)
+                            {
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Product</th>
+                                            <th>Image</th>
+                                            <th>Category</th>
+                                            <th>Unit Price</th>
+                                            <th>Quantity</th>
+                                            <th>Total Price</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in order.OrderDetail)
+                                        {
+                                            <tr>
+                                                <td>@item.Product.ProductName</td>
+                                                <td>
+                                                    @if (string.IsNullOrEmpty(item.Product.ProductImage))
+                                                    {
+                                                        <img src="/Images/default.jpg" style="width:80px; height:100px" />
+                                                    }
+                                                    else
+                                                    {
+                                                        <img src="/Images/ProductImages/@item.Product.ProductImage" style="width:80px; height:100px" />
+                                                    }
+                                                </td>
+                                                <td>@item.Product.Category.CategoryName</td>
+                                                <td>R @item.Product.Price</td>
+                                                <td>@item.Quantity</td>
+                                                <td>R @(item.Product.Price * item.Quantity)</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                    <tfoot>
+                                        <tr>
+                                            <td colspan="5" class="text-end"><b>Total Price:</b></td>
+                                            <td><b>R @order.OrderDetail.Select(item => item.Product.Price * item.Quantity).Sum()</b></td>
+                                        </tr>
+                                    </tfoot>
+                                </table>
+                            }
+                            else
+                            {
+                                <p>No products in this order.</p>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <h5>No orders</h5>
+    }
+</div>
+

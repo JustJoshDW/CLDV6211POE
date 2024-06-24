@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\dtos\\productdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\dtos\\productdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\views\\cart\\getusercart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\views\\cart\\getusercart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\views\\userorder\\userorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\views\\userorder\\userorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|c:\\users\\joshu\\onedrive\\desktop\\past\\cldv6211-cloud-development-part-2-justjoshdw\\st10313014_p2\\st10313014_p2\\views\\admin\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C306F4-51E4-4012-9EBF-C825DFD15C5F}|ST10313014_P2\\ST10313014_P2.csproj|solutionrelative:st10313014_p2\\views\\admin\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "ST10313014_P2\\Repositories\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:05:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "ST10313014_P2\\Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:05:32.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\DTOs\\ProductDisplayModel.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\DTOs\\ProductDisplayModel.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\DTOs\\ProductDisplayModel.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\DTOs\\ProductDisplayModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:35:37.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:40:05.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\Product.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:37:20.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:36:28.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:35:43.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\Order.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:31:04.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\Category.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:27:07.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Models\\CartDetail.cs",
+              "RelativeToolTip": "ST10313014_P2\\Models\\CartDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:24:37.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\UserOrder\\UserOrders.cshtml",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Views\\UserOrder\\UserOrders.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\UserOrder\\UserOrders.cshtml",
+              "RelativeToolTip": "ST10313014_P2\\Views\\UserOrder\\UserOrders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T21:28:11.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "ST10313014_P2\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T21:27:32.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AllOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Admin\\AllOrders.cshtml",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Views\\Admin\\AllOrders.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Admin\\AllOrders.cshtml",
+              "RelativeToolTip": "ST10313014_P2\\Views\\Admin\\AllOrders.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:18:50.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUserCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Cart\\GetUserCart.cshtml",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Views\\Cart\\GetUserCart.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Cart\\GetUserCart.cshtml",
+              "RelativeToolTip": "ST10313014_P2\\Views\\Cart\\GetUserCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:18:22.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyWork.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Home\\MyWork.cshtml",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Views\\Home\\MyWork.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Home\\MyWork.cshtml",
+              "RelativeToolTip": "ST10313014_P2\\Views\\Home\\MyWork.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:18:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ST10313014_P2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:16:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ST10313014_P2\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswCUAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:12.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "ST10313014_P2\\ViewModels\\CreateProductViewModel.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeToolTip": "ST10313014_P2\\ViewModels\\CreateProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:54:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "ST10313014_P2\\Views\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Past\\cldv6211-cloud-development-part-2-JustJoshDW\\ST10313014_P2\\ST10313014_P2\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "ST10313014_P2\\Views\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:54:34.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

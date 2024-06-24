@@ -1,0 +1,73 @@
+﻿@model ST10313014_P2.ViewModels.CreateProductViewModel
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<h2>Add Product</h2>
+
+<form asp-action="CreateProduct" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="ProductName" class="control-label"></label>
+        <input asp-for="ProductName" class="form-control" />
+        <span asp-validation-for="ProductName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ArtistName" class="control-label"></label> 
+        <input asp-for="ArtistName" class="form-control" />
+        <span asp-validation-for="ArtistName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProductImage" class="control-label"></label>
+        <input asp-for="ProductImage" type="file" class="form-control" />
+        <span asp-validation-for="ProductImage" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryId" class="control-label"></label>
+        <input asp-for="CategoryId" class="form-control" />
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Add Product</button>
+    </div>
+    <table style="table-striped">
+        <tr>
+            <td>Category ID 1:   </td>
+            <td>Sculpture</td>
+        </tr>
+        <tr>
+            <td>Category ID 2:   </td>
+            <td>Pottery</td>
+        </tr>
+        <tr>
+            <td>Category ID 3:   </td>
+            <td>Painting</td>
+        </tr>
+        <tr>
+            <td>Category ID 4:   </td>
+            <td>Craft</td>
+        </tr>
+        <tr>
+            <td>Category ID 5:   </td>
+            <td>Drawing</td>
+        </tr>
+    </table>
+
+
+
+
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+

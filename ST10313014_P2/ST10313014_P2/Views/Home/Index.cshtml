@@ -1,0 +1,70 @@
+﻿@model ProductDisplayModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Home Page</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+        }
+        .about-image {
+            width: 100%;
+            height: auto;
+            filter: brightness(0.8); 
+        }
+        .card {
+            background-color: #1e1e1e;
+            color: #ffffff;
+        }
+        .card img {
+                filter: brightness(1);
+        }
+        .view-all-btn {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="/Images/Artboard 1.png" alt="Artwork 1" class="about-image">
+        <div class="view-all-btn">
+            <a href="/Home/MyWork" class="btn btn-primary">View All Products</a>
+        </div>
+        <div class="w-100 mt-4 d-flex flex-wrap justify-content-center">
+            @foreach (var Product in Model.Products)
+            {
+                <div class="card mx-3 my-4" style="width: 18rem;">
+                    @if (string.IsNullOrEmpty(Product.ProductImage))
+                    {
+                        <img style="width: 100%; height: 180px" src="~/Images/default.jpg" class="card-img-top" alt="...">
+                    }
+                    else
+                    {
+                        <img style="width: 100%; height: 180px" src="~/Images/ProductImages/@Product.ProductImage" class="card-img-top" alt="...">
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@Product.ProductName</h5>
+                        <p class="card-text">
+                            <b>Category:</b> @(Product.Category != null ? Product.Category.CategoryName : "N/A")<br />
+                            <b>Artist:</b> @Product.ArtistName<br />
+                            <b>Price: </b>R @Product.Price
+                        </p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
