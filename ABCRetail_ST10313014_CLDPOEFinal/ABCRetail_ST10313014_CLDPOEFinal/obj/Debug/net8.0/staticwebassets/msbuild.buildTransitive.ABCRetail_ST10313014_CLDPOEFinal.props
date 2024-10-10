@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ABCRetail_ST10313014_CLDPOEFinal.props" />
+</Project>

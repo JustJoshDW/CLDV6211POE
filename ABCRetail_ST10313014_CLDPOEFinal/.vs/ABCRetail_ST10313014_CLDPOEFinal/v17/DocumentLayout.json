@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Data\\Migrations\\20241010121839_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ABCRetail_ST10313014_CLDPOEFinal\\Data\\Migrations\\20241010121839_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|c:\\users\\joshu\\onedrive\\desktop\\cldpoe_st10313014\\cldv6211poe\\abcretail_st10313014_cldpoefinal\\abcretail_st10313014_cldpoefinal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CB3C3D-289E-4209-98B0-4C7A1E8FBB68}|ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal.csproj|solutionrelative:abcretail_st10313014_cldpoefinal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241010121839_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Data\\Migrations\\20241010121839_FirstMigration.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Data\\Migrations\\20241010121839_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Data\\Migrations\\20241010121839_FirstMigration.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Data\\Migrations\\20241010121839_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:18:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T12:14:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:12:52.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:11:26.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:09:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:03:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\Product.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:44:05.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\Cart.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:43:45.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\Customer.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:43:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:42:05.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ABCRetail_ST10313014_CLDPOEFinal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\CLDPOE_ST10313014\\CLDV6211POE\\ABCRetail_ST10313014_CLDPOEFinal\\ABCRetail_ST10313014_CLDPOEFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ABCRetail_ST10313014_CLDPOEFinal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:39:08.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

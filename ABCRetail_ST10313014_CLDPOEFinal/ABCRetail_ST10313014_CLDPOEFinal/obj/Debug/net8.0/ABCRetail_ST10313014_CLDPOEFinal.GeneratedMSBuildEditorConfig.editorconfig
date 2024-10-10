@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ABCRetail_ST10313014_CLDPOEFinal
 build_property.RootNamespace = ABCRetail_ST10313014_CLDPOEFinal
@@ -22,12 +30,72 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Carts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Carts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Carts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Carts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Carts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joshu/OneDrive/Desktop/CLDPOE_ST10313014/CLDV6211POE/ABCRetail_ST10313014_CLDPOEFinal/ABCRetail_ST10313014_CLDPOEFinal/Views/Shared/Error.cshtml]

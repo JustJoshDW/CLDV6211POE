@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ABCRetail_ST10313014_CLDPOEFinal.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustBirthDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustBirthDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CustID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CustID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CustID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

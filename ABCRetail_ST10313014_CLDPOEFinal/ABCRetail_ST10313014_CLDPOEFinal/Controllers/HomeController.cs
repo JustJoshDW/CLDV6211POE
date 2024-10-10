@@ -1,4 +1,4 @@
-using ABCRetail_ST10313014_CLDPOEFinal.Models;
+﻿using ABCRetail_ST10313014_CLDPOEFinal.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -28,5 +28,6 @@ namespace ABCRetail_ST10313014_CLDPOEFinal.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
     }
 }
