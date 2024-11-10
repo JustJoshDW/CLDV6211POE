@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ABCRetail_ST10313014_CLDPOEFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61557ad982b4c7f23f19f6452472825b68d26d46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a7cd26d14a692c1a3627335cb015ce7da50e932")]
 [assembly: System.Reflection.AssemblyProductAttribute("ABCRetail_ST10313014_CLDPOEFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ABCRetail_ST10313014_CLDPOEFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
